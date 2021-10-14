@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hello World");
         System.out.println("Created Git Repository");
         System.out.println("Added");
+        System.out.println("Made few commits");
     }
 }
